@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactSubscriptionPage/static/css/main.2dae9766.chunk.css",
+    "main.js": "/ReactSubscriptionPage/static/js/main.d776d75c.chunk.js",
+    "main.js.map": "/ReactSubscriptionPage/static/js/main.d776d75c.chunk.js.map",
+    "runtime-main.js": "/ReactSubscriptionPage/static/js/runtime-main.9d25d9f9.js",
+    "runtime-main.js.map": "/ReactSubscriptionPage/static/js/runtime-main.9d25d9f9.js.map",
+    "static/js/2.7d98e215.chunk.js": "/ReactSubscriptionPage/static/js/2.7d98e215.chunk.js",
+    "static/js/2.7d98e215.chunk.js.map": "/ReactSubscriptionPage/static/js/2.7d98e215.chunk.js.map",
+    "static/js/3.6daeff81.chunk.js": "/ReactSubscriptionPage/static/js/3.6daeff81.chunk.js",
+    "static/js/3.6daeff81.chunk.js.map": "/ReactSubscriptionPage/static/js/3.6daeff81.chunk.js.map",
+    "index.html": "/ReactSubscriptionPage/index.html",
+    "static/css/main.2dae9766.chunk.css.map": "/ReactSubscriptionPage/static/css/main.2dae9766.chunk.css.map",
+    "static/js/2.7d98e215.chunk.js.LICENSE.txt": "/ReactSubscriptionPage/static/js/2.7d98e215.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d25d9f9.js",
+    "static/js/2.7d98e215.chunk.js",
+    "static/css/main.2dae9766.chunk.css",
+    "static/js/main.d776d75c.chunk.js"
+  ]
+}
